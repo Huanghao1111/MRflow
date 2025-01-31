@@ -109,6 +109,21 @@ Run the mr analysis
 
 **Once you have executed the code, you can get the results of the MR analysis from the results folder**
 
+## 4.Plot
+You can use any visualization package to display your results, such as:
+
+1. **Forest Plot**: [GitHub - gforge/forestplot](https://github.com/gforge/forestplot)
+2. **Circle Heat Map**: [GitHub - jokergoo/ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap)
+3. **Interactive Complex Heatmap**: [GitHub - jokergoo/InteractiveComplexHeatmap](https://github.com/jokergoo/InteractiveComplexHeatmap)
+4. **Chiplot**: [Chiplot Online](https://www.chiplot.online/)
+
+
+The file 401.heatmap.R contains example code for creating a circle map.
+
+The example data can be found in data/Table1.csv.
+
+<img src="imgs/Rplot01.jpeg" alt="flow_chart" width="400" height="400"/>
+
 
 # Q&A
 Can this project analyze any data?
