@@ -122,7 +122,7 @@ The file 401.heatmap.R contains example code for creating a circle map.
 
 The example data can be found in data/Table1.csv.
 
-<img src="imgs/Rplot01.jpeg" alt="flow_chart" width="400" height="400"/>
+<img src="imgs/Rplot01.png" alt="flow_chart" width="400" height="400"/>
 
 
 # Q&A
